@@ -23,6 +23,10 @@ according to the file type (extension), click "Resize .xxxx" respectively
 a file named resize will be created!! 
 HOORAY! You have resized an image successfully using this program!
 
+# Supported file formats:
+.png .jpg .jpeg are the only supported file formats for now!
+the number of supported file formats will be inscreased in the future versions
+
 # Creator: ZeaCeR#5641
 # Thank You!
 
