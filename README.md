@@ -24,5 +24,5 @@ a file named resize will be created!!
 HOORAY! You have resized an image successfully using this program!
 
 # Creator: ZeaCeR#5641
-
+# Thank You!
 
